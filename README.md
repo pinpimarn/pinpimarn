@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, Tailwind css, and backend stuffs.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pinpimarn?tab=repositories](https://github.com/pinpimarn?tab=repositories)
+- 👨‍💻 All of my projects are available at my GitHub Repository.
 
 - 📹 I'm also a Youtuber [www.youtube.com/@BoomPinpimarn](www.youtube.com/@BoomPinpimarn)
 
-- 💬 Ask me about **anything ^^.**
+- 💬 Ask me about anything ^^.
 
 - 📫 How to reach me **pinpimarn@gmail.com**
 

@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [resume-pinpimarn.vercel.app/](resume-pinpimarn.vercel.app/)
 
-- ⚡ 😁Fun fact **My favourite hobby is; singing, editing videos, and play games.**
+- 😁 Fun fact **My favourite hobby is; singing, editing videos, and play games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

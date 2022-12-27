@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind css, and backend stuffs.**
 
-- 👨‍💻 All of my projects are available at my GitHub Repository.
+- 🗃 All of my projects are available at my GitHub Repository.
 
 - 📹 I'm also a Youtuber [www.youtube.com/@BoomPinpimarn](www.youtube.com/@BoomPinpimarn)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [resume-pinpimarn.vercel.app/](resume-pinpimarn.vercel.app/)
 
-- ⚡ Fun fact **My favourite hobby is; singing, editing videos, and play games.**
+- ⚡ 😁Fun fact **My favourite hobby is; singing, editing videos, and play games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

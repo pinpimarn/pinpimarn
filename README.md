@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinpimarn" alt="pinpimarn" /></a> </p>
 
-- 💕 My recent work is [Period Pejai](period-pejai-deploy.vercel.app/)
+- 💕 My recent work is [Period Pejai](https://period-pejai-deploy.vercel.app/)
 
 - 🌱 I’m currently learning **React, Tailwind css, and backend stuffs.**
 

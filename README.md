@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/pinpimarn pinpisit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinpimarn pinpisit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/heavenharp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heavenharp" height="30" width="40" /></a>
+<a href="https://fb.com/boom.pinpimarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boom.pinpimarn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@BoomPinpimarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@BoomPinpimarn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
